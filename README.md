@@ -6,7 +6,7 @@
 
 #### Proyectos desarrollados
 **Proyectos en C# y XAML (Avalonia)**
-1. Gestión de bolígrafos
+1. [Gestión de bolígrafos](https://github.com/profe-dam2/ProyectoEspecialMartes)
 2. Almacen de lo que sea
 
 
